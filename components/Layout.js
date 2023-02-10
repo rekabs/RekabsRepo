@@ -1,4 +1,4 @@
-import Navbar from "/./components/Navbar.tsx"
+import Navbar from "/./components/Navbar.js"
 
 const Layout = ({ children }) => {
     return (

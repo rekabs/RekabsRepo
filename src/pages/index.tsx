@@ -22,7 +22,7 @@ export default function Home() {
       <main className='px-10'>
         <section className='min-h-screen'>
           <div className='relative mx-auto bg-gradient-to-r from-fuchsia-700 rounded-full w-80 h-80 mt-20 overflow-hidden'>
-            <img src="https://www.rekabs.com/wp-content/uploads/2023/02/rekabschar.png" layout='fil' objectfit='cover' />
+            <img src={'https://www.rekabs.com/wp-content/uploads/2023/02/rekabschar.png'} />
           </div>
           <div className='text-center p-10 font-Futura_PT'>
             <h2 className='text-5xl py-2 text-fuchsia-700 font-medium md:text-6xl'>Brian Baker</h2>
