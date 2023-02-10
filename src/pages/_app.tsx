@@ -4,9 +4,12 @@ import Layout from "../../components/Layout.js"
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <Layout>
-      <Component {...pageProps} />
-    </Layout>
+    <div className='bg-slate-200'>
+          <Layout>
+          <Component {...pageProps} />
+          </Layout>    
+    </div>
+
   )
 }
 

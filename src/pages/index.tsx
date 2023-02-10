@@ -27,7 +27,7 @@ export default function Home() {
           <div className='text-center p-10 font-Futura_PT'>
             <h2 className='text-5xl py-2 text-fuchsia-700 font-medium md:text-6xl'>Brian Baker</h2>
             <h3 className='text-2xl py-2 text-violet-600 font-medium font-mono md:text-3xl'>I React.</h3>
-            <p className=' text-md py-5 leading-8 text-zinc-800 md:text-xl max-w-xl mx-auto'>Purpose driven people leader.  I believe intentional outcomes are grown from sustainably repeatble behaviors.  I also like lawns.</p>
+            <p className=' text-md py-5 leading-8 text-zinc-800 md:text-xl max-w-xl mx-auto'>Purpose driven people leader.  I believe intentional outcomes are grown from sustainably repeatable behaviors.  I also like lawns.</p>
           </div>
           <div className='text-5xl flex justify-center gap-16 py-3 text-violet-600 md:text-8xl'>
             <Link target="_blank" href="https://github.com/rekabs">
